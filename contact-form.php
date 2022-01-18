@@ -2,7 +2,7 @@
 /**
  * Plugin Name:       Contact-Form
  * Plugin URI:        https://imagegrafia.com/contact-form/plugins
- * Description:       Set Question with MCQ and time
+ * Description:       Contact From for Enquiry <code> [contact_user_form_shortcode] </code>
  * Version:           1.0
  * Requires at least: 5.2
  * Requires PHP:      7.2
@@ -20,10 +20,6 @@
  */
 
 
-/**
- * Restrict direct access via root
- * http://localhost/pcsshala/wp-content/plugins/mcq-quiz/mcq-quiz.php
- */
 if(!defined('ABSPATH')){
   die("Cannot access !!!");
 }
