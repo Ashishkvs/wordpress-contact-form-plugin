@@ -5,7 +5,7 @@
                 <div class="cont-details">
                     <h4 class="title-small">Get in touch</h4>
                     <h3 class="title-big mb-4">Feel free to contact us</h3>
-                    <p class="mb-sm-5 mb-4">Start working with Us, We guarantee that you’ll be able to have any issue resolved within 24 hours.</p>
+                    <p class="mb-sm-5 mb-4">The motive of this organisation is to ease the preparation of competitive examination and make it much affordable.</p>
 
                     <div class="cont-top">
                         <div class="cont-left text-center">
@@ -13,7 +13,7 @@
                         </div>
                         <div class="cont-right">
                             <h6>Our head office address</h6>
-                            <p class="pr-lg-5">Address here, 208 Trainer Avenue street, Illinois, UK - 62617.</p>
+                            <p class="pr-lg-5">New Rajendra Nagar , New Delhi, Pin 110060</p>
                         </div>
                     </div>
                     <div class="cont-top margin-up">
@@ -22,7 +22,7 @@
                         </div>
                         <div class="cont-right">
                             <h6>Call for help </h6>
-                            <p><a href="tel:+(21) 255 999 8888">+(21) 255 999 8888</a></p>
+                            <p><a href="tel:+(91) 8920397003">8920397003</a></p>
                         </div>
                     </div>
                     <div class="cont-top margin-up">
@@ -31,7 +31,7 @@
                         </div>
                         <div class="cont-right">
                             <h6>Contact with our support</h6>
-                            <p><a href="mailto:coursing@mail.com" class="mail">coursing@mail.com</a></p>
+                            <p><a href="mailto:info@pcsshala.com" class="mail">info@pcsshala.com</a></p>
                         </div>
                     </div>
                 </div>
